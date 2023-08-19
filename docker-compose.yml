@@ -50,4 +50,4 @@ services:
     volumes:
       - ./data/flower:/ytdlbot/ytdlbot/flower
     ports:
-      - "127.0.0.1:15555:5555"
+      - "15555:5555"
